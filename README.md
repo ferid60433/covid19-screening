@@ -34,6 +34,7 @@ To use covid19-screening app, follow these steps:
 
 1. The home page provides you with global information on the cases in a graphical form
 2. Hit the search button
+3. Then 
 
 
 ## Contributing to covid19-screening app
